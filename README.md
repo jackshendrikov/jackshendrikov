@@ -4,6 +4,8 @@ I am a Python Developer from Kyiv. I am passionate about technologies and love t
 
 🔭 I’m currently looking for new opportunities .
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=JackShen1.JackShen1" alt="visitor badge"/> 
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
