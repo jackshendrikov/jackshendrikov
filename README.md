@@ -2,14 +2,14 @@
 
 I am a Python Developer from Kyiv. I am passionate about technologies and love to learn new things.
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=JackShen1.JackShen1" alt="visitor badge"/> 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Russkiy-Voyennyy-Korabl-Idi-Nakhuy.Russkiy-Voyennyy-Korabl-Idi-Nakhuy" alt="visitor badge"/> 
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/JackShen1">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JackShen1&hide=issues&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JackShen1&layout=compact&langs_count=10&theme=algolia"/>
+<a href="https://github.com/Russkiy-Voyennyy-Korabl-Idi-Nakhuy">
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Russkiy-Voyennyy-Korabl-Idi-Nakhuy&hide=issues&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Russkiy-Voyennyy-Korabl-Idi-Nakhuy&layout=compact&langs_count=10&theme=algolia"/>
 </a>
 </p>
 
