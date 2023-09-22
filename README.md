@@ -2,14 +2,14 @@
 
 I am a Python Developer from Kyiv. I am passionate about technologies and love to learn new things.
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Russkiy-Voyennyy-Korabl-Idi-Nakhuy.Russkiy-Voyennyy-Korabl-Idi-Nakhuy" alt="visitor badge"/> 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=DarkMolfar.DarkMolfar" alt="visitor badge"/> 
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/Russkiy-Voyennyy-Korabl-Idi-Nakhuy">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Russkiy-Voyennyy-Korabl-Idi-Nakhuy&hide=issues&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Russkiy-Voyennyy-Korabl-Idi-Nakhuy&layout=compact&langs_count=10&theme=algolia"/>
+<a href="https://github.com/DarkMolfar">
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DarkMolfar&hide=issues&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DarkMolfar&layout=compact&langs_count=10&theme=algolia"/>
 </a>
 </p>
 
@@ -18,6 +18,4 @@ I am a Python Developer from Kyiv. I am passionate about technologies and love t
 <p align="center">
 <a href="https://www.linkedin.com/in/yevhenii-shendrikov-6795291b8/"><img src="https://img.shields.io/badge/-Jack%20Shendrikov-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:jackshendrikov@gmail.com"><img src="https://img.shields.io/badge/-Jack%20Shendrikov-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/jack.shendrikov"><img src="https://img.shields.io/badge/-Jack%20Shendrikov-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://t.me/jackshen"><img src="https://img.shields.io/badge/-@jackshen-0088cc?style=flat&logo=Telegram&logoColor=white"/></a>
 </p>
