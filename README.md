@@ -2,14 +2,14 @@
 
 I am a Python Developer from Kyiv. I am passionate about technologies and love to learn new things.
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=DarkMolfar.DarkMolfar" alt="visitor badge"/> 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=jackshendrikov.jackshendrikov" alt="visitor badge"/> 
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/DarkMolfar">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DarkMolfar&hide=issues&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DarkMolfar&layout=compact&langs_count=10&theme=algolia"/>
+<a href="https://github.com/jackshendrikov">
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jackshendrikov&hide=issues&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jackshendrikov&layout=compact&langs_count=10&theme=algolia"/>
 </a>
 </p>
 
